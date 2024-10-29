@@ -1,0 +1,15 @@
+D:\HOC TAP\cycbersoftC#\cybersoft2024\baitapbuoi2\bin\Debug\net8.0\baitapbuoi2.exe
+D:\HOC TAP\cycbersoftC#\cybersoft2024\baitapbuoi2\bin\Debug\net8.0\baitapbuoi2.deps.json
+D:\HOC TAP\cycbersoftC#\cybersoft2024\baitapbuoi2\bin\Debug\net8.0\baitapbuoi2.runtimeconfig.json
+D:\HOC TAP\cycbersoftC#\cybersoft2024\baitapbuoi2\bin\Debug\net8.0\baitapbuoi2.dll
+D:\HOC TAP\cycbersoftC#\cybersoft2024\baitapbuoi2\bin\Debug\net8.0\baitapbuoi2.pdb
+D:\HOC TAP\cycbersoftC#\cybersoft2024\baitapbuoi2\obj\Debug\net8.0\baitapbuoi2.GeneratedMSBuildEditorConfig.editorconfig
+D:\HOC TAP\cycbersoftC#\cybersoft2024\baitapbuoi2\obj\Debug\net8.0\baitapbuoi2.AssemblyInfoInputs.cache
+D:\HOC TAP\cycbersoftC#\cybersoft2024\baitapbuoi2\obj\Debug\net8.0\baitapbuoi2.AssemblyInfo.cs
+D:\HOC TAP\cycbersoftC#\cybersoft2024\baitapbuoi2\obj\Debug\net8.0\baitapbuoi2.csproj.CoreCompileInputs.cache
+D:\HOC TAP\cycbersoftC#\cybersoft2024\baitapbuoi2\obj\Debug\net8.0\baitapbuoi2.dll
+D:\HOC TAP\cycbersoftC#\cybersoft2024\baitapbuoi2\obj\Debug\net8.0\refint\baitapbuoi2.dll
+D:\HOC TAP\cycbersoftC#\cybersoft2024\baitapbuoi2\obj\Debug\net8.0\baitapbuoi2.pdb
+D:\HOC TAP\cycbersoftC#\cybersoft2024\baitapbuoi2\obj\Debug\net8.0\baitapbuoi2.genruntimeconfig.cache
+D:\HOC TAP\cycbersoftC#\cybersoft2024\baitapbuoi2\obj\Debug\net8.0\ref\baitapbuoi2.dll
+D:\HOC TAP\cycbersoftC#\cybersoft2024\baitapbuoi2\obj\Debug\net8.0\baitapbuoi2.sourcelink.json
