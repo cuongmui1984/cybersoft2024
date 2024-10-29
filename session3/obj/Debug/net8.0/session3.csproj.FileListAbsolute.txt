@@ -1,0 +1,14 @@
+D:\HOC TAP\cycbersoftC#\cybersoft2024\session3\bin\Debug\net8.0\session3.exe
+D:\HOC TAP\cycbersoftC#\cybersoft2024\session3\bin\Debug\net8.0\session3.deps.json
+D:\HOC TAP\cycbersoftC#\cybersoft2024\session3\bin\Debug\net8.0\session3.runtimeconfig.json
+D:\HOC TAP\cycbersoftC#\cybersoft2024\session3\bin\Debug\net8.0\session3.dll
+D:\HOC TAP\cycbersoftC#\cybersoft2024\session3\bin\Debug\net8.0\session3.pdb
+D:\HOC TAP\cycbersoftC#\cybersoft2024\session3\obj\Debug\net8.0\session3.GeneratedMSBuildEditorConfig.editorconfig
+D:\HOC TAP\cycbersoftC#\cybersoft2024\session3\obj\Debug\net8.0\session3.AssemblyInfoInputs.cache
+D:\HOC TAP\cycbersoftC#\cybersoft2024\session3\obj\Debug\net8.0\session3.AssemblyInfo.cs
+D:\HOC TAP\cycbersoftC#\cybersoft2024\session3\obj\Debug\net8.0\session3.csproj.CoreCompileInputs.cache
+D:\HOC TAP\cycbersoftC#\cybersoft2024\session3\obj\Debug\net8.0\session3.dll
+D:\HOC TAP\cycbersoftC#\cybersoft2024\session3\obj\Debug\net8.0\refint\session3.dll
+D:\HOC TAP\cycbersoftC#\cybersoft2024\session3\obj\Debug\net8.0\session3.pdb
+D:\HOC TAP\cycbersoftC#\cybersoft2024\session3\obj\Debug\net8.0\session3.genruntimeconfig.cache
+D:\HOC TAP\cycbersoftC#\cybersoft2024\session3\obj\Debug\net8.0\ref\session3.dll
