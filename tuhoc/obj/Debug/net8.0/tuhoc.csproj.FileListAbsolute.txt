@@ -1,0 +1,14 @@
+D:\HOC TAP\cycbersoftC#\cybersoft2024\tuhoc\bin\Debug\net8.0\tuhoc.exe
+D:\HOC TAP\cycbersoftC#\cybersoft2024\tuhoc\bin\Debug\net8.0\tuhoc.deps.json
+D:\HOC TAP\cycbersoftC#\cybersoft2024\tuhoc\bin\Debug\net8.0\tuhoc.runtimeconfig.json
+D:\HOC TAP\cycbersoftC#\cybersoft2024\tuhoc\bin\Debug\net8.0\tuhoc.dll
+D:\HOC TAP\cycbersoftC#\cybersoft2024\tuhoc\bin\Debug\net8.0\tuhoc.pdb
+D:\HOC TAP\cycbersoftC#\cybersoft2024\tuhoc\obj\Debug\net8.0\tuhoc.GeneratedMSBuildEditorConfig.editorconfig
+D:\HOC TAP\cycbersoftC#\cybersoft2024\tuhoc\obj\Debug\net8.0\tuhoc.AssemblyInfoInputs.cache
+D:\HOC TAP\cycbersoftC#\cybersoft2024\tuhoc\obj\Debug\net8.0\tuhoc.AssemblyInfo.cs
+D:\HOC TAP\cycbersoftC#\cybersoft2024\tuhoc\obj\Debug\net8.0\tuhoc.csproj.CoreCompileInputs.cache
+D:\HOC TAP\cycbersoftC#\cybersoft2024\tuhoc\obj\Debug\net8.0\tuhoc.dll
+D:\HOC TAP\cycbersoftC#\cybersoft2024\tuhoc\obj\Debug\net8.0\refint\tuhoc.dll
+D:\HOC TAP\cycbersoftC#\cybersoft2024\tuhoc\obj\Debug\net8.0\tuhoc.pdb
+D:\HOC TAP\cycbersoftC#\cybersoft2024\tuhoc\obj\Debug\net8.0\tuhoc.genruntimeconfig.cache
+D:\HOC TAP\cycbersoftC#\cybersoft2024\tuhoc\obj\Debug\net8.0\ref\tuhoc.dll
